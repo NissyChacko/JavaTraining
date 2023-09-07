@@ -1,4 +1,3 @@
-// my first programme
 
 class HelloWorld {
 	public static void main(String[] args)
@@ -7,12 +6,8 @@ class HelloWorld {
 	System.out.println("Mundakathil House");
         System.out.println("Payipad P.O,");
         System.out.println("Haripad");
-        System.out.println("Allapuzha"); 
-
-
-
+        System.out.println("Allapuzha");
 	}
-
 
 }
 
