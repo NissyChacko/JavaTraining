@@ -1,4 +1,4 @@
-class calculatorchars
+gclass calculatorchars
 {
     public static void main(String[]args)
 {

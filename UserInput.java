@@ -4,6 +4,8 @@ class UserInput {
   public static void main(String[] args) {
     Scanner myScanObj = new Scanner(System.in);
 
+    Student student1=New Student{}
+
     System.out.println("Enter name, age and salary:");
     // String input fir name
     String name = myScanObj.nextLine();

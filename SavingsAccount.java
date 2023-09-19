@@ -14,12 +14,12 @@ public class SavingsAccount
 		
 	}
 
-	public void deposit(double amount)
+	public deposit(double amount)
 	{
 		balance = balance + amount;
 	}
 
-	public void withdraw(double amount)
+	public withdraw(double amount)
 	{
 		balance = balance - amount;
 	}
