@@ -3,7 +3,7 @@ class sici
 {
     public static void main (String argu[ ])
 {
-    double pr, rate, t, sim,com;
+    double pr, rate, t, sim,com;  // Variable declaration
     Scanner sc=new Scanner (System. in);
     System.out.println("Enter the amount:");
     pr=sc.nextDouble();
